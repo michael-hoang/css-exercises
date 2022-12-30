@@ -11,3 +11,9 @@ div#second {
 .odd.cooler {
   font-size: 24px;
 }
+
+div#fourth {
+  background-color: #90EE90;
+  font-size: 24px;
+  font-weight: bold;
+}
