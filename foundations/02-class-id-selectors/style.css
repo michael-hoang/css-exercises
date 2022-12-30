@@ -8,12 +8,11 @@ div#second {
   font-size: 36px;
 }
 
-.odd.cooler {
+.adjust-font-size {
   font-size: 24px;
 }
 
 div#fourth {
   background-color: #90EE90;
-  font-size: 24px;
   font-weight: bold;
 }
